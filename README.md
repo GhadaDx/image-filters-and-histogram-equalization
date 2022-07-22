@@ -6,6 +6,7 @@ and show the output in both spatial and frequency domains in addition to a histo
 ##Features
 1-choose from four filters (low pass, median, high pass, la placian).
 2-show the image before and after histogram equalization beside their histograms.
+
 ##Demo
 
 
